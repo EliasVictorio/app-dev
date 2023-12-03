@@ -1,7 +1,7 @@
 # app-dev
 My first repository.
 
-# fave Moive/Series
+# fave Movie/Series
 1. Rick and Morty
 2. Marvels Movies and Series
 3. Attack on Titan
